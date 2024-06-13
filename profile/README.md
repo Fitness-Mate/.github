@@ -1,4 +1,4 @@
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/9483094c-5e83-45de-b0f1-ec71a2468464" height="300" />
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/9483094c-5e83-45de-b0f1-ec71a2468464" />
 
 # Fitmate
 
