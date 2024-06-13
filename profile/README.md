@@ -32,11 +32,11 @@
 
 ### 로그인
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/74eb8744-781d-4b97-8509-41e23e392b4e.gif" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/24217ba5-356c-40ce-9610-8fef4384d33b.gif" width="100%" />
 
 ### 운동 검색
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/4ce45481-2f37-4527-88ba-858aa1228173.gif" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/3d669d5d-8107-4966-8740-627e450efaff" width="100%"/>
 
 ### 보조제 검색
 
@@ -44,15 +44,15 @@
 
 ### 운동 추천
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/25cda987-8254-4cbd-b51c-0a325f059e4d.gif" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/800aa30b-7064-4c55-bda8-fa4574101af3" width="100%"/>
 
 ### 보조제 추천
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/781ffece-c5bd-408e-ad70-ccbdf3a6604f.gif" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/9f51dec9-e13b-4284-bd78-a8fb1474f2c0" width="100%"/>
 
 ### 루틴 관리
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/79a458bf-c265-4b62-b2bb-990853bd7838.gif" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/fbaec72f-8ef9-412f-9f07-a8729ef19e74" width="100%"/>
 
 ## ⚡️ 기술 스택
 
