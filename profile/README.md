@@ -1,4 +1,4 @@
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/9483094c-5e83-45de-b0f1-ec71a2468464" />
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/9483094c-5e83-45de-b0f1-ec71a2468464"  />
 
 # Fitmate
 
@@ -27,6 +27,32 @@
 ### 간단한 정보 입력만으로 내 몸에 맞는 운동을 찾아보세요! 🔍
 
 ### 내게 맞는 운동을 찾았다면 루틴을 만들어 관리해보세요! 🛞
+
+## 🐽 핵심 기능
+
+### 로그인
+
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/74eb8744-781d-4b97-8509-41e23e392b4e" />
+
+### 운동 검색
+
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/4ce45481-2f37-4527-88ba-858aa1228173" />
+
+### 보조제 검색
+
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/52686747-ddac-46ce-adc4-1f7ac0a06c05" />
+
+### 운동 추천
+
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/25cda987-8254-4cbd-b51c-0a325f059e4d" />
+
+### 보조제 추천
+
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/781ffece-c5bd-408e-ad70-ccbdf3a6604f" />
+
+### 루틴 관리
+
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/79a458bf-c265-4b62-b2bb-990853bd7838" />
 
 ## ⚡️ 기술 스택
 
