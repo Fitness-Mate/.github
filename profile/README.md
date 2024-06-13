@@ -32,33 +32,33 @@
 
 ### 로그인
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/74eb8744-781d-4b97-8509-41e23e392b4e" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/74eb8744-781d-4b97-8509-41e23e392b4e.gif" width="100%"/>
 
 ### 운동 검색
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/4ce45481-2f37-4527-88ba-858aa1228173" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/4ce45481-2f37-4527-88ba-858aa1228173.gif" width="100%"/>
 
 ### 보조제 검색
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/52686747-ddac-46ce-adc4-1f7ac0a06c05" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/e5578a7a-5430-4b05-9a96-e8ed06ddc42e.gif" width="100%" />
 
 ### 운동 추천
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/25cda987-8254-4cbd-b51c-0a325f059e4d" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/25cda987-8254-4cbd-b51c-0a325f059e4d.gif" width="100%"/>
 
 ### 보조제 추천
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/781ffece-c5bd-408e-ad70-ccbdf3a6604f" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/781ffece-c5bd-408e-ad70-ccbdf3a6604f.gif" width="100%"/>
 
 ### 루틴 관리
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/79a458bf-c265-4b62-b2bb-990853bd7838" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/79a458bf-c265-4b62-b2bb-990853bd7838.gif" width="100%"/>
 
 ## ⚡️ 기술 스택
 
 ### 프론트엔드
 
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/55e70d29-dd3a-485c-afeb-0f06a2119395" width="100%"/>
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/55e70d29-dd3a-485c-afeb-0f06a2119395.gif" width="100%"/>
 
 ### 백엔드
 
