@@ -1,5 +1,3 @@
-<img src="https://github.com/Fitness-Mate/.github/assets/106851561/9483094c-5e83-45de-b0f1-ec71a2468464"  />
-
 # Fitmate
 
 <a href="https://fitnessmate-frontend.vercel.app/">
@@ -62,7 +60,11 @@
 
 ### 백엔드
 
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/74d1ebad-471f-4e60-893d-aeb6668a8d2c" width="100%"/>
+
 ## ⚒️서비스 구조도
+
+<img src="https://github.com/Fitness-Mate/.github/assets/106851561/619ebbfe-59ce-4e77-a76e-a6c281d26871" width="100%"/>
 
 ## 🪝 팀원
 
