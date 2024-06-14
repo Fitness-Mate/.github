@@ -1,3 +1,5 @@
+![image](https://github.com/Fitness-Mate/.github/assets/106851561/bce95130-2c8b-462e-9d00-a1d2a0dd03d3)
+
 # Fitmate
 
 <a href="https://fitnessmate-frontend.vercel.app/">
