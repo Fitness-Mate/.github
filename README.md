@@ -2,7 +2,7 @@
 
 # Fitmate
 
-<a href="https://fitnessmate-frontend.vercel.app/">
+<a href="https://www.fitmate.store/">
 
   <p align="center">
     <img src="https://github.com/Fitness-Mate/.github/assets/106851561/346741a5-2a56-40c8-b47a-c648c0c86ee7" width="300"/>
